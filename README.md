@@ -13,10 +13,7 @@ You can see the **live demo** of this project here:
 
 [🔗 Live Demo](https://sneha20056.github.io/amazon-clone-html-css/)
 
-## Screenshots
 
-![Project Screenshot](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8374d628-3ae1-486a-b0d5-8b5fd8ef0cc2" />
-)
 
 ## How to Run Locally
 
